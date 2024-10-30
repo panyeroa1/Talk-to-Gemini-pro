@@ -5,7 +5,7 @@ from pydub import AudioSegment
 from pydub.playback import play
 
 # Configure Gemini 1.5 Flash 8B API
-genai.configure(api_key="Your_Gemini_1.5_Flash_8B_API_Key")
+genai.configure(api_key="AIzaSyBoAP68YPMmdDzThyL402X-FvyaUOrWZNE")
 
 # Set up the model
 generation_config = {
